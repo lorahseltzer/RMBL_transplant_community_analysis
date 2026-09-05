@@ -1,0 +1,19 @@
+Community,Treatment,Origin control P,Destination control P,PRC response
+Plants,High W2,0.001,0.001,Shifted toward destination; remained distinct from destination
+Plants,High W1,0.001,0.001,Shifted toward destination; remained distinct from destination
+Plants,Mid W1,0.001,0.001,Shifted toward destination; remained distinct from destination
+Plants,Low C2,0.18,0.001,Weak directional movement; remained statistically similar to origin
+Plants,Low C1,0.27,0.001,Weak directional movement; remained statistically similar to origin
+Plants,Mid C1,0.001,0.001,Persistent offset from both origin and destination
+Bacteria/Archaea,High W2,0.003,0.31,Converged toward destination
+Bacteria/Archaea,High W1,0.32,0.34,Unresolved; origin and destination controls did not differ
+Bacteria/Archaea,Mid W1,0.43,0.18,Directional movement toward destination; endpoint comparisons unresolved
+Bacteria/Archaea,Low C2,0.19,0.05,Remained close to origin
+Bacteria/Archaea,Low C1,0.06,0.28,Directional movement toward destination; endpoint comparisons unresolved
+Bacteria/Archaea,Mid C1,0.35,0.48,Unresolved; origin and destination controls did not differ
+Fungi,High W2,0.15,0.34,Weak, seasonally variable movement toward destination
+Fungi,High W1,0.45,0.06,Weak, seasonally variable movement toward destination
+Fungi,Mid W1,0.35,0.48,Weak, seasonally variable movement toward destination
+Fungi,Low C2,0.43,0.02,Remained similar to origin
+Fungi,Low C1,0.10,0.03,Remained similar to origin
+Fungi,Mid C1,0.15,0.14,Directional movement toward destination; endpoint comparisons unresolved

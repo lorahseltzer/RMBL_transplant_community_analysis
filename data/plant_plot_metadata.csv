@@ -1,0 +1,90 @@
+﻿turfID,destinationSite,originSite,treatment,treatmentOrigin,treatmentOriginGroup,originSiteBlock
+um1-2_w2_mo1-5,Upper Montane,Monument,warmed two steps,warmed two steps Monument,High W2,Monument1
+um1-3_u_um1-3,Upper Montane,Upper Montane,untouched,untouched Upper Montane,Low Control,Upper Montane1
+um1-4_ws_um1-1,Upper Montane,Upper Montane,within site transplant,within site transplant Upper Montane,Low Control,Upper Montane1
+um1-5_w1_pf1-4,Upper Montane,Pfeiler,warmed one step,warmed one step Pfeiler,Mid W1,Pfeiler1
+um2-1_w1_pf2-5,Upper Montane,Pfeiler,warmed one step,warmed one step Pfeiler,Mid W1,Pfeiler2
+um2-2_u_um2-2,Upper Montane,Upper Montane,untouched,untouched Upper Montane,Low Control,Upper Montane2
+um2-3_w2_mo2-1,Upper Montane,Monument,warmed two steps,warmed two steps Monument,High W2,Monument2
+um2-4_nu_um2-4,Upper Montane,Upper Montane,netted untouched,netted untouched Upper Montane,Low Control,Upper Montane2
+um2-5_ws_um2-5,Upper Montane,Upper Montane,within site transplant,within site transplant Upper Montane,Low Control,Upper Montane2
+um3-1_u_um3-1,Upper Montane,Upper Montane,untouched,untouched Upper Montane,Low Control,Upper Montane3
+um3-2_w2_mo3-3,Upper Montane,Monument,warmed two steps,warmed two steps Monument,High W2,Monument3
+um3-3_ws_um3-3,Upper Montane,Upper Montane,within site transplant,within site transplant Upper Montane,Low Control,Upper Montane3
+um3-4_w1_pf3-2,Upper Montane,Pfeiler,warmed one step,warmed one step Pfeiler,Mid W1,Pfeiler3
+um3-5_nu_um3-5,Upper Montane,Upper Montane,netted untouched,netted untouched Upper Montane,Low Control,Upper Montane3
+um4-1_w1_pf4-2,Upper Montane,Pfeiler,warmed one step,warmed one step Pfeiler,Mid W1,Pfeiler4
+um4-2_w2_mo4-3,Upper Montane,Monument,warmed two steps,warmed two steps Monument,High W2,Monument4
+um4-3_nu_um4-3,Upper Montane,Upper Montane,netted untouched,netted untouched Upper Montane,Low Control,Upper Montane4
+um4-4_u_um4-4,Upper Montane,Upper Montane,untouched,untouched Upper Montane,Low Control,Upper Montane4
+um4-5_ws_um4-5,Upper Montane,Upper Montane,within site transplant,within site transplant Upper Montane,Low Control,Upper Montane4
+um5-1_ws_um5-1,Upper Montane,Upper Montane,within site transplant,within site transplant Upper Montane,Low Control,Upper Montane5
+um5-2_nu_um5-2,Upper Montane,Upper Montane,netted untouched,netted untouched Upper Montane,Low Control,Upper Montane5
+um5-3_u_um5-3,Upper Montane,Upper Montane,untouched,untouched Upper Montane,Low Control,Upper Montane5
+um5-4_w1_pf5-3,Upper Montane,Pfeiler,warmed one step,warmed one step Pfeiler,Mid W1,Pfeiler5
+um5-5_w2_mo5-2,Upper Montane,Monument,warmed two steps,warmed two steps Monument,High W2,Monument5
+pf1-1_nu_pf1-1,Pfeiler,Pfeiler,netted untouched,netted untouched Pfeiler,Mid Control,Pfeiler1
+pf1-2_u_pf1-2,Pfeiler,Pfeiler,untouched,untouched Pfeiler,Mid Control,Pfeiler1
+pf1-3_ws_pf1-5,Pfeiler,Pfeiler,within site transplant,within site transplant Pfeiler,Mid Control,Pfeiler1
+pf1-4_c1_um1-5,Pfeiler,Upper Montane,cooled one step,cooled one step Upper Montane,Low C1,Upper Montane1
+pf1-5_w1_mo1-1,Pfeiler,Monument,warmed one step,warmed one step Monument,High W1,Monument1
+pf2-1_nu_pf2-1,Pfeiler,Pfeiler,netted untouched,netted untouched Pfeiler,Mid Control,Pfeiler2
+pf2-2_c1_um2-1,Pfeiler,Upper Montane,cooled one step,cooled one step Upper Montane,Low C1,Upper Montane2
+pf2-3_w1_mo2-5,Pfeiler,Monument,warmed one step,warmed one step Monument,High W1,Monument2
+pf2-4_u_pf2-4,Pfeiler,Pfeiler,untouched,untouched Pfeiler,Mid Control,Pfeiler2
+pf2-5_ws_pf2-2,Pfeiler,Pfeiler,within site transplant,within site transplant Pfeiler,Mid Control,Pfeiler2
+pf3-1_nu_pf3-1,Pfeiler,Pfeiler,netted untouched,netted untouched Pfeiler,Mid Control,Pfeiler3
+pf3-2_ws_pf3-3,Pfeiler,Pfeiler,within site transplant,within site transplant Pfeiler,Mid Control,Pfeiler3
+pf3-3_c1_um3-4,Pfeiler,Upper Montane,cooled one step,cooled one step Upper Montane,Low C1,Upper Montane3
+pf3-4_u_pf3-4,Pfeiler,Pfeiler,untouched,untouched Pfeiler,Mid Control,Pfeiler3
+pf3-5_w1_mo3-2,Pfeiler,Monument,warmed one step,warmed one step Monument,High W1,Monument3
+pf4-1_nu_pf4-1,Pfeiler,Pfeiler,netted untouched,netted untouched Pfeiler,Mid Control,Pfeiler4
+pf4-2_ws_pf4-3,Pfeiler,Pfeiler,within site transplant,within site transplant Pfeiler,Mid Control,Pfeiler4
+pf4-3_c1_um4-1,Pfeiler,Upper Montane,cooled one step,cooled one step Upper Montane,Low C1,Upper Montane4
+pf4-4_u_pf4-4,Pfeiler,Pfeiler,untouched,untouched Pfeiler,Mid Control,Pfeiler4
+pf4-5_w1_mo4-5,Pfeiler,Monument,warmed one step,warmed one step Monument,High W1,Monument4
+pf5-1_u_pf5-1,Pfeiler,Pfeiler,untouched,untouched Pfeiler,Mid Control,Pfeiler5
+pf5-2_w1_mo5-3,Pfeiler,Monument,warmed one step,warmed one step Monument,High W1,Monument5
+pf5-3_ws_pf5-4,Pfeiler,Pfeiler,within site transplant,within site transplant Pfeiler,Mid Control,Pfeiler5
+pf5-4_c1_um5-4,Pfeiler,Upper Montane,cooled one step,cooled one step Upper Montane,Low C1,Upper Montane5
+pf5-5_nu_pf5-5,Pfeiler,Pfeiler,netted untouched,netted untouched Pfeiler,Mid Control,Pfeiler5
+mo1-1_c1_pf1-3,Monument,Pfeiler,cooled one step,cooled one step Pfeiler,Mid C1,Pfeiler1
+mo1-2_c2_um1-2,Monument,Upper Montane,cooled two steps,cooled two steps Upper Montane,Low C2,Upper Montane1
+mo1-3_nu_mo1-3,Monument,Monument,netted untouched,netted untouched Monument,High Control,Monument1
+mo1-4_u_mo1-4,Monument,Monument,untouched,untouched Monument,High Control,Monument1
+mo1-5_ws_mo1-2,Monument,Monument,within site transplant,within site transplant Monument,High Control,Monument1
+mo2-1_ws_mo2-3,Monument,Monument,within site transplant,within site transplant Monument,High Control,Monument2
+mo2-2_u_mo2-2,Monument,Monument,untouched,untouched Monument,High Control,Monument2
+mo2-3_c2_um2-3,Monument,Upper Montane,cooled two steps,cooled two steps Upper Montane,Low C2,Upper Montane2
+mo2-4_nu_mo2-4,Monument,Monument,netted untouched,netted untouched Monument,High Control,Monument2
+mo2-5_c1_pf2-3,Monument,Pfeiler,cooled one step,cooled one step Pfeiler,Mid C1,Pfeiler2
+mo3-1_u_mo3-1,Monument,Monument,untouched,untouched Monument,High Control,Monument3
+mo3-2_c1_pf3-5,Monument,Pfeiler,cooled one step,cooled one step Pfeiler,Mid C1,Pfeiler3
+mo3-3_c2_um3-2,Monument,Upper Montane,cooled two steps,cooled two steps Upper Montane,Low C2,Upper Montane3
+mo3-4_nu_mo3-4,Monument,Monument,netted untouched,netted untouched Monument,High Control,Monument3
+mo3-5_ws_mo3-5,Monument,Monument,within site transplant,within site transplant Monument,High Control,Monument3
+mo4-1_c1_pf4-5,Monument,Pfeiler,cooled one step,cooled one step Pfeiler,Mid C1,Pfeiler4
+mo4-2_nu_mo4-2,Monument,Monument,netted untouched,netted untouched Monument,High Control,Monument4
+mo4-3_c2_um4-2,Monument,Upper Montane,cooled two steps,cooled two steps Upper Montane,Low C2,Upper Montane4
+mo4-4_u_mo4-4,Monument,Monument,untouched,untouched Monument,High Control,Monument4
+mo4-5_ws_mo4-1,Monument,Monument,within site transplant,within site transplant Monument,High Control,Monument4
+mo5-1_u_mo5-1,Monument,Monument,untouched,untouched Monument,High Control,Monument5
+mo5-2_c2_um5-5,Monument,Upper Montane,cooled two steps,cooled two steps Upper Montane,Low C2,Upper Montane5
+mo5-3_ws_mo5-4,Monument,Monument,within site transplant,within site transplant Monument,High Control,Monument5
+mo5-4_c1_pf5-2,Monument,Pfeiler,cooled one step,cooled one step Pfeiler,Mid C1,Pfeiler5
+mo5-5_nu_mo5-5,Monument,Monument,netted untouched,netted untouched Monument,High Control,Monument5
+mo6-1_c2_um6-3,Monument,Upper Montane,cooled two steps,cooled two steps Upper Montane,Low C2,Upper Montane6
+mo6-2_c2_um6-5,Monument,Upper Montane,cooled two steps,cooled two steps Upper Montane,Low C2,Upper Montane6
+mo6-3_c1_pf6-3,Monument,Pfeiler,cooled one step,cooled one step Pfeiler,Mid C1,Pfeiler6
+mo6-4_c1_pf6-4,Monument,Pfeiler,cooled one step,cooled one step Pfeiler,Mid C1,Pfeiler6
+mo6-5_c2_um6-6,Monument,Upper Montane,cooled two steps,cooled two steps Upper Montane,Low C2,Upper Montane6
+pf6-1_c1_um6-2,Pfeiler,Upper Montane,cooled one step,cooled one step Upper Montane,Low C1,Upper Montane6
+pf6-2_c1_um6-1,Pfeiler,Upper Montane,cooled one step,cooled one step Upper Montane,Low C1,Upper Montane6
+pf6-4_w1_mo6-4,Pfeiler,Monument,warmed one step,warmed one step Monument,High W1,Monument6
+pf6-3_w1_mo6-3,Pfeiler,Monument,warmed one step,warmed one step Monument,High W1,Monument6
+um6-1_w1_pf6-2,Upper Montane,Pfeiler,warmed one step,warmed one step Pfeiler,Mid W1,Pfeiler6
+um6-2_w1_pf6-1,Upper Montane,Pfeiler,warmed one step,warmed one step Pfeiler,Mid W1,Pfeiler6
+um6-3_w2_mo6-1,Upper Montane,Monument,warmed two steps,warmed two steps Monument,High W2,Monument6
+um6-6_w2_mo6-5,Upper Montane,Monument,warmed two steps,warmed two steps Monument,High W2,Monument6
+um6-5_ws_um6-4,Upper Montane,Upper Montane,within site transplant,within site transplant Upper Montane,Low Control,Upper Montane6
+um6-4_w2_mo6-2,Upper Montane,Monument,warmed two steps,warmed two steps Monument,High W2,Monument6

@@ -1,0 +1,46 @@
+Community,Treatment Comparison,eig RDA1,df,F,p value
+plants,High Control and Low Control,6.23,6,4.45,0.001
+plants,High Control and Mid Control,4.34,6,4.36,0.001
+plants,Mid Control and Low Control,4.72,6,3.98,0.001
+plants,High W2 and High Control (origin),3.11,6,2.32,0.001
+plants,High W2 and Low Control (destination),4.49,6,2.73,0.001
+plants,High W1 and High Control (origin),2.01,6,1.87,0.001
+plants,High W1 and Mid Control (destination),3.89,6,3.23,0.001
+plants,Mid W1 and Mid Control (origin),3.31,6,2.99,0.001
+plants,Mid W1 and Low Control (destination),3.60,6,2.50,0.001
+plants,Low C2 and Low Control (origin),1.74,6,1.14,0.18
+plants,Low C2 and High Control (destination),5.89,6,3.71,0.001
+plants,Low C1 and Low Control (origin),1.49,6,1.10,0.27
+plants,Low C1 and Mid Control (destination),4.30,6,3.59,0.001
+plants,Mid C1 and Mid Control (origin),1.44,6,1.71,0.001
+plants,Mid C1 and High Control (destination),3.85,6,2.65,0.001
+bacteria and archaea,High Control and Low Control,227.71,3,1.61,0.002
+bacteria and archaea,High Control and Mid Control,151.20,3,1.16,0.17
+bacteria and archaea,Mid Control and Low Control,170.34,3,1.36,0.03
+bacteria and archaea,High W2 and High Control (origin),216.72,3,1.53,0.003
+bacteria and archaea,High W2 and Low Control (destination),138.88,3,1.08,0.31
+bacteria and archaea,High W1 and High Control (origin),165.57,3,1.09,0.32
+bacteria and archaea,High W1 and Mid Control (destination),153.77,3,1.08,0.34
+bacteria and archaea,Mid W1 and Mid Control (origin),132.72,3,1.03,0.43
+bacteria and archaea,Mid W1 and Low Control (destination),134.53,3,1.13,0.18
+bacteria and archaea,Low C2 and Low Control (origin),133.89,3,1.16,0.19
+bacteria and archaea,Low C2 and High Control (destination),208.31,3,1.27,0.05
+bacteria and archaea,Low C1 and Low Control (origin),157.72,3,1.30,0.06
+bacteria and archaea,Low C1 and Mid Control (destination),170.21,3,1.09,0.28
+bacteria and archaea,Mid C1 and Mid Control (origin),127.22,3,1.08,0.35
+bacteria and archaea,Mid C1 and High Control (destination),138.43,3,1.00,0.48
+fungi,High Control and Low Control,109.96,3,1.61,0.004
+fungi,High Control and Mid Control,84.82,3,1.39,0.02
+fungi,Mid Control and Low Control,81.46,3,1.35,0.02
+fungi,High W2 and High Control (origin),69.37,3,1.18,0.15
+fungi,High W2 and Low Control (destination),57.67,3,1.06,0.34
+fungi,High W1 and High Control (origin),53.49,3,1.03,0.45
+fungi,High W1 and Mid Control (destination),73.09,3,1.28,0.06
+fungi,Mid W1 and Mid Control (origin),61.44,3,1.06,0.35
+fungi,Mid W1 and Low Control (destination),47.75,3,1.00,0.48
+fungi,Low C2 and Low Control (origin),47.40,3,1.03,0.43
+fungi,Low C2 and High Control (destination),105.69,3,1.45,0.02
+fungi,Low C1 and Low Control (origin),68.72,3,1.18,0.10
+fungi,Low C1 and Mid Control (destination),71.86,3,1.31,0.03
+fungi,Mid C1 and Mid Control (origin),77.39,3,1.22,0.15
+fungi,Mid C1 and High Control (destination),78.00,3,1.22,0.14

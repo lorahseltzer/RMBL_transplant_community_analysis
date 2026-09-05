@@ -1,0 +1,22 @@
+# macOS files
+.DS_Store
+**/.DS_Store
+
+# R session files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Automatically generated default graphics files
+Rplots.pdf
+
+# Temporary and backup files
+*~
+*.tmp
+*.temp
+*.bak
+
+# R package build and check artifacts
+*.Rcheck/
+*.tar.gz

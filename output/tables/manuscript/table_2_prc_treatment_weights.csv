@@ -1,0 +1,7 @@
+Treatment,Bacteria/Archaea treatment weight,Bacteria/Archaea standard error,Fungi treatment weight,Fungi standard error,Plants treatment weight,Plants standard error
+Low C2,-0.02,0.04,-0.04,0.04,-0.03*,0.01
+Low C1,-0.09*,0.02,-0.14*,0.06,-0.03,0.01
+Mid C1,-0.16*,0.05,-0.20*,0.02,-0.10*,0.00
+High W2,0.20,0.12,0.19*,0.03,0.03*,0.01
+High W1,0.12*,0.05,0.08*,0.03,0.00,0.01
+Mid W1,0.24*,0.07,0.26*,0.01,0.09*,0.01

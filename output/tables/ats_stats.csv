@@ -1,0 +1,19 @@
+"community","Treatment","mean","sd","n","se","significant"
+"cooled_bacteria_gradient","Mid C1",-0.16,0.08,3,0.05,TRUE
+"cooled_bacteria_gradient","Low C1",-0.09,0.04,3,0.02,TRUE
+"cooled_bacteria_gradient","Low C2",-0.02,0.06,3,0.04,FALSE
+"cooled_fungi_gradient","Mid C1",-0.2,0.03,3,0.02,TRUE
+"cooled_fungi_gradient","Low C1",-0.14,0.11,3,0.06,TRUE
+"cooled_fungi_gradient","Low C2",-0.04,0.06,3,0.04,FALSE
+"cooled_plants_gradient","Mid C1",-0.1,0.01,6,0,TRUE
+"cooled_plants_gradient","Low C1",-0.03,0.04,6,0.01,TRUE
+"cooled_plants_gradient","Low C2",-0.03,0.03,6,0.01,TRUE
+"warmed_bacteria_gradient","High W1",0.12,0.09,3,0.05,TRUE
+"warmed_bacteria_gradient","High W2",0.2,0.21,3,0.12,FALSE
+"warmed_bacteria_gradient","Mid W1",0.24,0.12,3,0.07,TRUE
+"warmed_fungi_gradient","High W1",0.08,0.05,3,0.03,TRUE
+"warmed_fungi_gradient","High W2",0.19,0.06,3,0.03,TRUE
+"warmed_fungi_gradient","Mid W1",0.26,0.01,3,0.01,TRUE
+"warmed_plants_gradient","High W1",0,0.02,6,0.01,FALSE
+"warmed_plants_gradient","High W2",0.03,0.02,6,0.01,TRUE
+"warmed_plants_gradient","Mid W1",0.09,0.02,6,0.01,TRUE

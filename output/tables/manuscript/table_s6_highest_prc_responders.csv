@@ -1,0 +1,118 @@
+Community,Taxon ID,Taxon name,Phylum,Family,Control measure,High control,Mid control,Low control,Warmed gradient PRC weight,Warmed experiment PRC weight,Cooled gradient PRC weight,Cooled experiment PRC weight,Selected among top 15 for
+Plants,Festuca rubra,Festuca rubra,NA,Poaceae,Mean scaled proportional dominance (%),0,69.06,0,-0.09,0.74,0.67,2.1,Cooled experiment
+Plants,Achillea millefolium,Achillea millefolium,NA,Asteraceae,Mean scaled proportional dominance (%),0,0.17,33.26,1.86,1.42,-1.77,-1.15,Warmed gradient; Warmed experiment; Cooled gradient; Cooled experiment
+Plants,Poa pratensis,Poa pratensis,NA,Poaceae,Mean scaled proportional dominance (%),0,0,41.44,1.78,0.22,-1.82,-1.12,Warmed gradient; Cooled gradient; Cooled experiment
+Plants,Heliomeris multiflora,Heliomeris multiflora,NA,Asteraceae,Mean scaled proportional dominance (%),0,19.94,2.38,0.16,1.73,0.04,1.2,Warmed experiment; Cooled experiment
+Plants,Poa reflexa,Poa reflexa,NA,Poaceae,Mean scaled proportional dominance (%),40.79,20,0,-1.57,-0.26,1.6,1.34,Warmed gradient; Cooled gradient; Cooled experiment
+Plants,Senecio crassulus,Senecio crassulus,NA,Asteraceae,Mean scaled proportional dominance (%),7.67,24.72,1.46,-0.55,0.34,0.83,1.53,Cooled experiment
+Plants,Stipa nelsonii,Stipa nelsonii,NA,Poaceae,Mean scaled proportional dominance (%),0,0,20.74,1.42,1.04,-1.34,-0.9,Warmed gradient; Warmed experiment; Cooled gradient; Cooled experiment
+Plants,Potentilla pulcherrima,Potentilla pulcherrima,NA,Rosaceae,Mean scaled proportional dominance (%),5.04,26.69,41.49,1.42,1.42,-1.31,-0.33,Warmed gradient; Warmed experiment; Cooled gradient
+Plants,Lathyrus lanszwertii,Lathyrus lanszwertii,NA,Fabaceae,Mean scaled proportional dominance (%),0,11.93,27.39,1.4,1.08,-1.25,-0.36,Warmed gradient; Warmed experiment; Cooled gradient
+Plants,Viola nuttallii,Viola nuttallii,NA,Violaceae,Mean scaled proportional dominance (%),2.81,10.04,27.09,1.37,1.11,-1.23,-0.58,Warmed gradient; Warmed experiment; Cooled gradient
+Plants,Helianthella quinquenervis,Helianthella quinquenervis,NA,Asteraceae,Mean scaled proportional dominance (%),41.57,18.1,4.18,-1,-0.69,1.29,0.88,Warmed gradient; Cooled gradient; Cooled experiment
+Plants,Delphinium nuttallianum,Delphinium nuttallianum,NA,Ranunculaceae,Mean scaled proportional dominance (%),0,0,6.28,1.29,0.87,-1.28,-0.76,Warmed gradient; Warmed experiment; Cooled gradient; Cooled experiment
+Plants,Valeriana occidentalis,Valeriana occidentalis,NA,Valerianaceae,Mean scaled proportional dominance (%),0,0,18.44,1.23,NA,-1.19,-0.7,Warmed gradient; Cooled gradient; Cooled experiment
+Plants,Elymus repens,Elymus repens,NA,Poaceae,Mean scaled proportional dominance (%),0.38,10.14,5.46,0.41,1.17,-0.18,-0.34,Warmed experiment
+Plants,Ligusticum porteri,Ligusticum porteri,NA,Apiaceae,Mean scaled proportional dominance (%),27.14,14.14,0.89,-1,-0.17,1.16,1.06,Warmed gradient; Cooled gradient; Cooled experiment
+Plants,Melica spectabilis,Melica spectabilis,NA,Poaceae,Mean scaled proportional dominance (%),0,3.34,5.09,1.09,1.16,-0.98,-0.66,Warmed gradient; Warmed experiment; Cooled gradient; Cooled experiment
+Plants,Mertensia fusiformis,Mertensia fusiformis,NA,Boraginaceae,Mean scaled proportional dominance (%),0.04,0.7,3.92,0.95,1.09,-1.02,-0.4,Warmed experiment; Cooled gradient
+Plants,Thalictrum fendleri,Thalictrum fendleri,NA,Ranunculaceae,Mean scaled proportional dominance (%),0.18,7.99,1.13,0.17,1.09,0.15,0.76,Warmed experiment; Cooled experiment
+Plants,Carex sp.,Carex sp.,NA,Cyperaceae,Mean scaled proportional dominance (%),0,1.46,9.34,1.03,1,-0.76,0.12,Warmed gradient; Warmed experiment
+Plants,Agoseris aurantiaca,Agoseris aurantiaca,NA,Asteraceae,Mean scaled proportional dominance (%),0,0,4.59,0.96,0.35,-1.03,-0.63,Cooled gradient
+Plants,Vicia americana,Vicia americana,NA,Fabaceae,Mean scaled proportional dominance (%),0,1.04,3.06,0.78,1.01,-0.46,0.27,Warmed experiment
+Plants,Fragaria virginiana,Fragaria virginiana,NA,Rosaceae,Mean scaled proportional dominance (%),20.66,8.87,0,-0.98,-0.32,1,0.66,Warmed gradient; Cooled gradient
+Plants,Taraxacum officinale,Taraxacum officinale,NA,Asteraceae,Mean scaled proportional dominance (%),0.1,0.85,9.18,0.98,0.72,-0.96,-0.65,Warmed gradient
+Plants,Frasera speciosa,Frasera speciosa,NA,Gentianaceae,Mean scaled proportional dominance (%),3.9,0,0,-0.82,-0.51,0.85,0.95,Cooled experiment
+Plants,Bromus carinatus,Bromus carinatus,NA,Poaceae,Mean scaled proportional dominance (%),4.34,11.76,8.46,0.29,0.89,-0.22,0.22,Warmed experiment
+Plants,Agoseris glauca,Agoseris glauca,NA,Asteraceae,Mean scaled proportional dominance (%),1.9,4.09,1.71,-0.04,0.85,0.23,0.06,Warmed experiment
+Plants,Elymus bakeri,Elymus bakeri,NA,Poaceae,Mean scaled proportional dominance (%),8.05,0,0,-0.68,-0.6,0.79,0.79,Cooled experiment
+Bacteria/Archaea,1406,NA,Actinobacteria,NA,Mean log-transformed abundance,NA,NA,4.6,0.38,0.22,-0.61,0,Cooled gradient
+Bacteria/Archaea,548,NA,Acidobacteria,NA,Mean log-transformed abundance,4.03,2.78,NA,-0.6,-0.54,0.56,-0.36,Warmed gradient; Warmed experiment; Cooled gradient
+Bacteria/Archaea,1411,GOUTA6,Proteobacteria,Nitrosomonadaceae,Mean log-transformed abundance,4.26,4.42,NA,-0.57,-0.53,0.36,-0.37,Warmed gradient; Warmed experiment
+Bacteria/Archaea,1526,mle1-7,Proteobacteria,Nitrosomonadaceae,Mean log-transformed abundance,3.22,3.54,NA,-0.46,-0.26,0.57,-0.26,Cooled gradient
+Bacteria/Archaea,1094,NA,Acidobacteria,NA,Mean log-transformed abundance,NA,3.4,4.04,0.46,0.35,-0.55,-0.06,Cooled gradient
+Bacteria/Archaea,1232,Acidothermus,Actinobacteria,Acidothermaceae,Mean log-transformed abundance,NA,NA,3.5,0.34,0.21,-0.55,-0.12,Cooled gradient
+Bacteria/Archaea,1547,NA,Proteobacteria,SC-I-84,Mean log-transformed abundance,3.3,3.37,NA,-0.54,-0.46,0.3,-0.29,Warmed gradient; Warmed experiment
+Bacteria/Archaea,1534,NA,Proteobacteria,SC-I-84,Mean log-transformed abundance,4,3.65,2.98,-0.43,-0.29,0.53,-0.41,Cooled gradient
+Bacteria/Archaea,1010,Gemmatimonas,Gemmatimonadota,Gemmatimonadaceae,Mean log-transformed abundance,NA,NA,4.05,0.52,0.42,-0.36,0.02,Warmed gradient
+Bacteria/Archaea,1055,RB41,Acidobacteria,Pyrinomonadaceae,Mean log-transformed abundance,3.94,4.74,NA,-0.48,-0.52,0.44,NA,Warmed experiment
+Bacteria/Archaea,1648,NA,Acidobacteria,NA,Mean log-transformed abundance,3.7,3.89,3.22,-0.52,-0.43,0.45,-0.27,Warmed gradient
+Bacteria/Archaea,894,NA,Proteobacteria,NA,Mean log-transformed abundance,3.63,3.24,2.55,-0.52,-0.46,0.43,-0.28,Warmed gradient; Warmed experiment
+Bacteria/Archaea,984,NA,Gemmatimonadota,Gemmatimonadaceae,Mean log-transformed abundance,4,4.09,3.42,-0.36,-0.21,0.52,-0.27,Cooled gradient
+Bacteria/Archaea,10,NA,Latescibacterota,NA,Mean log-transformed abundance,3.73,3.14,NA,-0.51,-0.45,0.42,-0.36,Warmed gradient; Warmed experiment
+Bacteria/Archaea,113,NA,Planctomycetota,Gemmataceae,Mean log-transformed abundance,3.16,3.47,NA,-0.48,-0.45,0.51,-0.11,Warmed experiment; Cooled gradient
+Bacteria/Archaea,1167,Bryobacter,Acidobacteria,Bryobacteraceae,Mean log-transformed abundance,3.73,3.64,3.83,-0.51,-0.51,0.28,-0.2,Warmed gradient; Warmed experiment
+Bacteria/Archaea,1316,Gaiella,Actinobacteria,Gaiellaceae,Mean log-transformed abundance,3.27,3.45,NA,-0.47,-0.33,0.51,-0.25,Cooled gradient
+Bacteria/Archaea,990,NA,Gemmatimonadota,Gemmatimonadaceae,Mean log-transformed abundance,3.58,3.27,NA,-0.51,-0.44,0.33,-0.41,Warmed gradient
+Bacteria/Archaea,1001,NA,Gemmatimonadota,Gemmatimonadaceae,Mean log-transformed abundance,3.84,3.83,NA,-0.5,-0.44,0.34,-0.29,Warmed gradient
+Bacteria/Archaea,1452,NA,Proteobacteria,NA,Mean log-transformed abundance,3.84,3.52,2.94,-0.27,-0.11,0.5,0.04,Cooled gradient
+Bacteria/Archaea,1663,NA,Proteobacteria,Mitochondria,Mean log-transformed abundance,3.39,1.59,NA,-0.5,-0.45,0.43,-0.15,Warmed gradient; Warmed experiment
+Bacteria/Archaea,167,NA,Planctomycetota,Gemmataceae,Mean log-transformed abundance,3.48,3.03,2.24,-0.5,-0.41,0.37,-0.25,Warmed gradient
+Bacteria/Archaea,372,Gemmatimonas,Gemmatimonadota,Gemmatimonadaceae,Mean log-transformed abundance,3.33,3.48,3.67,-0.18,-0.04,0.25,-0.5,Cooled experiment
+Bacteria/Archaea,42,NA,Planctomycetota,WD2101 soil group,Mean log-transformed abundance,4.22,4.14,NA,-0.29,-0.19,0.5,-0.27,Cooled gradient
+Bacteria/Archaea,529,Candidatus Udaeobacter,Verrucomicrobiota,Chthoniobacteraceae,Mean log-transformed abundance,4.42,4.1,NA,-0.28,-0.1,0.5,-0.24,Cooled gradient
+Bacteria/Archaea,733,NA,Proteobacteria,Micropepsaceae,Mean log-transformed abundance,3.74,3.64,NA,-0.5,-0.46,0.4,-0.21,Warmed gradient; Warmed experiment
+Bacteria/Archaea,1112,NA,Acidobacteria,NA,Mean log-transformed abundance,3.53,3.3,3.09,-0.49,-0.46,0.48,-0.31,Warmed gradient; Warmed experiment
+Bacteria/Archaea,224,NA,Actinobacteria,NA,Mean log-transformed abundance,3.69,3.83,2.48,-0.34,-0.21,0.49,-0.2,Cooled gradient
+Bacteria/Archaea,470,Candidatus Udaeobacter,Verrucomicrobiota,Chthoniobacteraceae,Mean log-transformed abundance,NA,4.41,4.7,0.32,0.25,-0.49,-0.07,Cooled gradient
+Bacteria/Archaea,505,Candidatus Udaeobacter,Verrucomicrobiota,Chthoniobacteraceae,Mean log-transformed abundance,5.59,4.98,4.85,-0.49,-0.41,0.34,-0.29,Warmed gradient
+Bacteria/Archaea,1064,RB41,Acidobacteria,Pyrinomonadaceae,Mean log-transformed abundance,3.98,4.27,NA,-0.48,-0.32,0.48,-0.2,Cooled gradient
+Bacteria/Archaea,161,NA,Planctomycetota,Gemmataceae,Mean log-transformed abundance,3.37,2.44,2.47,-0.18,-0.1,-0.03,-0.48,Cooled experiment
+Bacteria/Archaea,383,NA,Acidobacteria,NA,Mean log-transformed abundance,3.79,3.44,3.06,-0.46,-0.48,0.2,-0.45,Warmed experiment; Cooled experiment
+Bacteria/Archaea,110,Gemmata,Planctomycetota,Gemmataceae,Mean log-transformed abundance,4.27,NA,3.5,-0.3,-0.47,0.18,-0.2,Warmed experiment
+Bacteria/Archaea,416,ADurb.Bin063-1,Verrucomicrobiota,Pedosphaeraceae,Mean log-transformed abundance,3.89,3.78,3.18,-0.39,-0.47,0.26,-0.18,Warmed experiment
+Bacteria/Archaea,9,NA,Latescibacterota,NA,Mean log-transformed abundance,3.23,2.83,2.57,-0.46,-0.47,0.28,-0.17,Warmed experiment
+Bacteria/Archaea,12,NA,Actinobacteria,Ilumatobacteraceae,Mean log-transformed abundance,3.22,2.99,2.67,-0.46,-0.26,0.44,-0.44,Cooled experiment
+Bacteria/Archaea,1307,NA,Actinobacteria,NA,Mean log-transformed abundance,3.72,4.11,3.78,-0.31,0,0.44,-0.46,Cooled experiment
+Bacteria/Archaea,376,Anaeromyxobacter,Myxococcota,Anaeromyxobacteraceae,Mean log-transformed abundance,3.72,3.35,3.18,-0.36,-0.16,0.18,-0.46,Cooled experiment
+Bacteria/Archaea,1098,NA,Acidobacteria,NA,Mean log-transformed abundance,4.46,4.02,3.25,-0.37,-0.15,0.44,-0.43,Cooled experiment
+Bacteria/Archaea,244,NA,NA,NA,Mean log-transformed abundance,2.81,2.99,2.9,-0.31,-0.22,0.17,-0.44,Cooled experiment
+Bacteria/Archaea,339,Anaeromyxobacter,Myxococcota,Anaeromyxobacteraceae,Mean log-transformed abundance,3.41,3.4,3.4,-0.33,-0.1,0.44,-0.43,Cooled experiment
+Bacteria/Archaea,56,NA,Methylomirabilota,NA,Mean log-transformed abundance,4.65,4.52,4.13,-0.35,-0.26,0.34,-0.44,Cooled experiment
+Bacteria/Archaea,658,Afipia,Proteobacteria,Xanthobacteraceae,Mean log-transformed abundance,4.75,4.85,4.15,-0.29,-0.07,0.24,-0.44,Cooled experiment
+Bacteria/Archaea,1621,NA,Chloroflexi,NA,Mean log-transformed abundance,3.52,3.88,3.61,0.01,0.21,0.11,-0.43,Cooled experiment
+Bacteria/Archaea,1653,NA,Chloroflexi,NA,Mean log-transformed abundance,3.97,3.78,3.33,-0.35,-0.21,0.28,-0.43,Cooled experiment
+Bacteria/Archaea,562,Haliangium,Myxococcota,Haliangiaceae,Mean log-transformed abundance,3.27,3.26,NA,-0.1,0.02,0.12,-0.43,Cooled experiment
+Bacteria/Archaea,981,NA,Gemmatimonadota,Gemmatimonadaceae,Mean log-transformed abundance,4.97,5.16,4.7,-0.23,0.03,0.26,-0.43,Cooled experiment
+Fungi,529,Leucosporidium,Basidiomycota,Leucosporidiaceae,Mean log-transformed abundance,NA,NA,3.32,0.57,0.34,-0.76,-0.57,Warmed gradient; Cooled gradient; Cooled experiment
+Fungi,681,Mortierella,Mortierellomycota,Mortierellaceae,Mean log-transformed abundance,NA,4.03,5.91,0.66,0.51,-0.73,-0.59,Warmed gradient; Cooled gradient; Cooled experiment
+Fungi,312,Elasticomyces,Ascomycota,Teratosphaeriaceae,Mean log-transformed abundance,NA,2.48,4.66,0.7,0.54,-0.63,-0.33,Warmed gradient; Warmed experiment; Cooled gradient
+Fungi,32,Coniochaeta,Ascomycota,Coniochaetaceae,Mean log-transformed abundance,NA,NA,3.79,0.59,0.53,-0.69,-0.5,Warmed gradient; Warmed experiment; Cooled gradient
+Fungi,161,Coniochaeta,Ascomycota,Coniochaetaceae,Mean log-transformed abundance,2.14,2.66,3.71,0.51,0.68,-0.37,0.1,Warmed experiment
+Fungi,380,Metarhizium,Ascomycota,Clavicipitaceae,Mean log-transformed abundance,NA,2.33,4.09,0.61,0.46,-0.68,-0.38,Warmed gradient; Cooled gradient
+Fungi,655,Mortierella,Mortierellomycota,Mortierellaceae,Mean log-transformed abundance,1.59,4.14,5.69,0.59,0.45,-0.68,-0.45,Warmed gradient; Cooled gradient
+Fungi,349,Tetracladium,Ascomycota,Helotiaceae,Mean log-transformed abundance,4.04,4.06,4,-0.01,0.2,0.14,0.63,Cooled experiment
+Fungi,591,Westerdykella,Ascomycota,Sporormiaceae,Mean log-transformed abundance,NA,NA,3.83,0.58,0.52,-0.62,-0.44,Warmed gradient; Warmed experiment; Cooled gradient
+Fungi,480,Acremonium,Ascomycota,Hypocreales_fam_Incertae_sedis,Mean log-transformed abundance,NA,NA,3.17,0.62,0.33,-0.56,-0.38,Warmed gradient
+Fungi,605,NA,Ascomycota,NA,Mean log-transformed abundance,3.1,2.85,2.07,-0.52,-0.17,0.61,0.51,Cooled gradient
+Fungi,527,Saitozyma,Basidiomycota,Trimorphomycetaceae,Mean log-transformed abundance,1.58,4.09,4.58,0.48,0.37,-0.61,-0.45,Cooled gradient
+Fungi,479,NA,NA,NA,Mean log-transformed abundance,1.61,2.01,3.3,0.59,0.46,-0.61,-0.52,Warmed gradient; Cooled gradient
+Fungi,403,NA,Ascomycota,NA,Mean log-transformed abundance,NA,1.24,3.36,0.49,0.36,-0.6,-0.34,Cooled gradient
+Fungi,420,Ascochyta,Ascomycota,Didymellaceae,Mean log-transformed abundance,2.64,4.47,5.84,0.59,0.51,-0.6,-0.31,Warmed gradient; Cooled gradient
+Fungi,281,Archaeorhizomyces,Ascomycota,Archaeorhizomycetaceae,Mean log-transformed abundance,4.98,3.73,NA,-0.42,-0.21,0.5,0.6,Cooled experiment
+Fungi,417,Endophoma,Ascomycota,Didymellaceae,Mean log-transformed abundance,5.47,4.34,3.68,-0.55,-0.18,0.54,0.6,Cooled experiment
+Fungi,261,Pseudogymnoascus,Ascomycota,Pseudeurotiaceae,Mean log-transformed abundance,NA,NA,3.42,0.52,0.29,-0.59,-0.49,Cooled gradient
+Fungi,520,NA,Ascomycota,NA,Mean log-transformed abundance,2.2,2.4,0.69,-0.08,0.14,0.26,0.59,Cooled experiment
+Fungi,68,Humicola,Ascomycota,Chaetomiaceae,Mean log-transformed abundance,3.09,3.13,5.56,0.52,0.4,-0.59,-0.39,Cooled gradient
+Fungi,184,NA,Ascomycota,NA,Mean log-transformed abundance,4.89,NA,NA,-0.59,-0.55,0.53,0.32,Warmed gradient; Warmed experiment
+Fungi,214,Gyoerffyella,Ascomycota,Hyaloscyphaceae,Mean log-transformed abundance,3.34,4.38,NA,-0.22,-0.04,0.22,0.59,Cooled experiment
+Fungi,346,Tetracladium,Ascomycota,Helotiaceae,Mean log-transformed abundance,4.21,3.69,4.55,-0.58,-0.5,0.54,0.35,Warmed gradient
+Fungi,117,NA,Olpidiomycota,Olpidiaceae,Mean log-transformed abundance,3.34,3.4,NA,-0.33,-0.06,0.41,0.57,Cooled experiment
+Fungi,355,Laetinaevia,Ascomycota,Dermateaceae,Mean log-transformed abundance,6.66,5.46,5.17,-0.57,-0.39,0.55,0.47,Warmed gradient
+Fungi,568,Paraphaeosphaeria,Ascomycota,Didymosphaeriaceae,Mean log-transformed abundance,2.78,3.41,4.57,0.51,0.53,-0.57,-0.33,Warmed experiment; Cooled gradient
+Fungi,201,Fontanospora,Ascomycota,Helotiaceae,Mean log-transformed abundance,5.09,4.32,3.98,-0.52,-0.33,0.46,0.56,Cooled experiment
+Fungi,640,Clavaria,Basidiomycota,Clavariaceae,Mean log-transformed abundance,3.25,1.39,NA,-0.56,-0.56,0.55,0.12,Warmed gradient; Warmed experiment
+Fungi,102,Antennariella,Ascomycota,Capnodiaceae,Mean log-transformed abundance,2.24,4.4,5.35,0.53,0.53,-0.56,-0.13,Warmed experiment
+Fungi,146,Naganishia,Basidiomycota,Filobasidiaceae,Mean log-transformed abundance,NA,3.05,3.42,0.47,0.56,-0.43,-0.16,Warmed experiment
+Fungi,306,NA,Ascomycota,Extremaceae,Mean log-transformed abundance,3.32,3.82,4.03,-0.25,0.05,0.39,0.56,Cooled experiment
+Fungi,469,Archaeorhizomyces,Ascomycota,Archaeorhizomycetaceae,Mean log-transformed abundance,5.34,NA,3.78,-0.49,-0.56,0.49,0.25,Warmed experiment
+Fungi,222,NA,Ascomycota,NA,Mean log-transformed abundance,6.83,4.08,5.59,0.48,0.55,-0.53,-0.13,Warmed experiment
+Fungi,692,NA,NA,NA,Mean log-transformed abundance,5.67,NA,NA,-0.55,-0.52,0.5,0.29,Warmed gradient; Warmed experiment
+Fungi,658,Mortierella,Mortierellomycota,Mortierellaceae,Mean log-transformed abundance,3.33,3.87,2.2,-0.12,0.2,0.24,0.55,Cooled experiment
+Fungi,299,NA,Ascomycota,NA,Mean log-transformed abundance,3.55,3.35,4.3,-0.44,-0.22,0.52,0.55,Cooled experiment
+Fungi,547,Slooffia,Basidiomycota,Chrysozymaceae,Mean log-transformed abundance,4.08,2.7,NA,-0.06,0.31,0.3,0.54,Cooled experiment
+Fungi,357,NA,Ascomycota,NA,Mean log-transformed abundance,NA,2.56,NA,0.11,0.33,0.17,0.54,Cooled experiment
+Fungi,319,NA,Ascomycota,Herpotrichiellaceae,Mean log-transformed abundance,3.55,2.42,2.37,-0.42,-0.21,0.52,0.54,Cooled experiment
+Fungi,528,NA,Basidiomycota,NA,Mean log-transformed abundance,2.83,3.31,4.46,0.45,0.53,-0.47,-0.12,Warmed experiment
+Fungi,405,NA,Ascomycota,Melanommataceae,Mean log-transformed abundance,4.55,2.45,4.04,-0.53,-0.52,0.44,0.45,Warmed experiment
+Fungi,596,Preussia,Ascomycota,Sporormiaceae,Mean log-transformed abundance,NA,NA,2.21,0.24,0.52,-0.21,0.25,Warmed experiment
